@@ -1,6 +1,6 @@
 import itchat
 from itchat.content import *
-from .tuling import dm_to_tuling
+from tuling import dm_to_tuling
 
 @itchat.msg_register([TEXT, MAP, CARD, NOTE, SHARING])
 def text_reply(msg):

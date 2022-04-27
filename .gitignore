@@ -129,3 +129,5 @@ log/*
 .DS_Store
 app/.DS_Store
 fb/*
+
+QR.png
